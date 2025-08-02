@@ -1,0 +1,2 @@
+#define DEVELOPER      "Xeirh"
+#define DEVELOPER_XUID "1000000004395b2"
